@@ -1,4 +1,4 @@
-### 🌱 Hi, I'm Junior Front-End Developer
+### Hi, I'm Junior Front-End Developer
 
 ### ⚡ Tech Stack
 
@@ -16,11 +16,6 @@
    - JWT
    - DBMS: mysql, oracle
    - AWS, Expo
-3. etc
-   - Git, GitHub
-   - Tools: Postman, VSCode, workbench, slack, notion
-
-<br>
 
 ### 📫 Contact
 
