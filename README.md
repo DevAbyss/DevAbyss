@@ -1,7 +1,5 @@
 ### 🌱 Hi, I'm Junior Front-End Developer
 
-<br>
-
 ### ⚡ Tech Stack
 
 1. Front-End
