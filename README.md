@@ -1,17 +1,7 @@
 ### Hi, I'm Junior Front-End Developer
 
-### ⚡ Tech Stack
-
-1. Front-End
-   - JavaScript, TypeScript
-   - HTML/CSS, Sass (SCSS)
-   - React, React Native
-   - Redux
-2. Back-End
-   - Java
-   - Node.js, Express
-   - DBMS: mysql, oracle
-   - AWS, Expo
+### Experience
+* (주)케이스마트피아 (2017.06 ~ 2018.07)
 
 ### 📫 Contact
 
