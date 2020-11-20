@@ -4,16 +4,12 @@
 
 1. Front-End
    - JavaScript, TypeScript
-   - HTML/CSS
-   - Sass (SCSS)
+   - HTML/CSS, Sass (SCSS)
    - React, React Native
    - Redux
 2. Back-End
    - Java
-   - Node.js
-   - Express
-   - Sequelize
-   - JWT
+   - Node.js, Express
    - DBMS: mysql, oracle
    - AWS, Expo
 
