@@ -1,6 +1,5 @@
 ### Hi, I'm Junior Front-End Developer
-
-##### Growing Developer
+Growing Developer
 
 ### 📫 Contact
 
