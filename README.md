@@ -1,7 +1,6 @@
 ### Hi, I'm Junior Front-End Developer
 
-### Experience
-* (주)케이스마트피아 (2017.06 ~ 2018.07)
+### Growing Developer
 
 ### 📫 Contact
 
