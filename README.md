@@ -1,18 +1,30 @@
-### Hi there 👋
+### 🌱 Hi, I'm Junior Front-End Developer
 
-## DevAbyss
+<br>
 
-<!--
-**LEEHEEJOON/LEEHEEJOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Tech Stack
 
-Here are some ideas to get you started:
+1. Front-End
+   - JavaScript, TypeScript
+   - HTML/CSS
+   - Sass (SCSS)
+   - React, React Native
+   - Redux
+2. Back-End
+   - Java
+   - Node.js
+   - Express
+   - Sequelize
+   - JWT
+   - DBMS: mysql, oracle
+   - AWS, Expo
+3. etc
+   - Git, GitHub
+   - Tools: Postman, VSCode, workbench, slack, notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 📫 Contact
+
+- Email: marco920322@gmail.com
+- Notion: https://www.notion.so/Front-End-Developer-7b914b8c34474728b813aa3939ce2180
