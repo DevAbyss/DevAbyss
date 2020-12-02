@@ -1,4 +1,4 @@
-### Hi, I'm Junior Front-End Developer
+### Hi, I'm Junior Developer
 🔥 Growing Developer
 
 
