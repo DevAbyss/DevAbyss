@@ -1,5 +1,5 @@
-### Hi, I'm Junior Developer
-🔥 Growing Developer
+### 안녕하세요. 신입 개발자 이희준입니다.
+🔥 성장하는 개발자!
 
 
 ### 📫 Contact
